@@ -5,7 +5,7 @@ var maxSlides = 4;
 
 
 function facebook() {
-  open('fb://page/amundsonfamilymusic');
+  open('fb://page/1158558627502187');
 }
 
 window.onload = function () {
