@@ -17,10 +17,10 @@ window.onload = function () {
   
   tools.style.display = "none";
 
-  slideNumber = 4;
-  showslide1();
-  nextSlide();
-  auto();
+  //slideNumber = 4;
+  //showslide1();
+  //nextSlide();
+  //auto();
   //alert("good");
 }
 
