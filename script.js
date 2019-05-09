@@ -11,9 +11,10 @@ function facebook() {
 window.onload = function () {
   //alert("My apologies, but my website isn't done yet.  Nevertheless, feel free to look around!");
 
-  //mainContent.style.display = "none";
-  landingPage.style.display = "none";
-  //document.body.style.backgroundImage = "none";
+  mainContent.style.display = "none";
+  //landingPage.style.display = "none";
+  document.body.style.backgroundImage = "none";
+  
   tools.style.display = "none";
 
   slideNumber = 4;
