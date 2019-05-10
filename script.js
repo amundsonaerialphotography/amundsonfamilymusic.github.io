@@ -5,7 +5,7 @@ var maxSlides = 4;
 
 
 function facebook() {
-  open('fb://page/1158558627502187');
+  open('fb://page/?id=1158558627502187');
 }
 
 window.onload = function () {
