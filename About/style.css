@@ -223,7 +223,7 @@ img {
   position: fixed;
   z-index: 1;
   display: none;
-  left: 400px;
+  left: 30%;
   background-color: #ffffff;
   width: 500px;
   height: 235px;
@@ -279,7 +279,7 @@ img {
 #open2 {
   font-size: 15px;
   position: absolute;
-  left: 185px;
+  left: 187px;
   border-radius: 10px;
   border-style: none;
   width: 130px;
