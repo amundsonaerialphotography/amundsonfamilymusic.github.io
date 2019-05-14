@@ -5,8 +5,26 @@ var maxSlides = 4;
 
 
 function facebook() {
+  fbpmt.style.display = "block";
+}
+
+function close1() {
+  fbpmt.style.display = "none";
+}
+
+function open1() {
+  open('https://www.facebook.com/amundsonfamilymusic/');
+}
+
+function open2() {
   open('fb://profile/1158558627502187');
 }
+
+function open3() {
+  open('fb://profile/1158558627502187');
+}
+
+
 
 window.onload = function () {
   //alert("My apologies, but my website isn't done yet.  Nevertheless, feel free to look around!");
