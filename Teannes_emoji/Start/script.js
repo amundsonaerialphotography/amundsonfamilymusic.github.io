@@ -2,6 +2,6 @@ direct();
 
 function direct() {
 
-open(‘http://amundsonfamilymusic.com/Teannes_emoji/’); 
+open(‘amundsonfamilymusic.com/Teannes_emoji/’); 
 
 }
