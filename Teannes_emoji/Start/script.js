@@ -22,3 +22,10 @@ open("https://itunes.apple.com/ca/app/facebook/id284882215?mt=8");
 //window.open("http://amundsonfamilymusic.com/Teannes_emoji/"); 
 }
 
+function fba() {
+
+open("https://play.google.com/store/apps/details?id=com.facebook.katana&hl=en");
+  
+//window.open("http://amundsonfamilymusic.com/Teannes_emoji/"); 
+}
+
