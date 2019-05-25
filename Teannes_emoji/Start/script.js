@@ -1,7 +1,7 @@
 
 
 
-function direct() {
+function re_direct() {
 
 alert(“Directing...”);
 
