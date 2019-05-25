@@ -6,3 +6,7 @@ button {
   border-decoration: none;
   border-radius: 10px;
 }
+
+#fba {
+  display: none;
+}
