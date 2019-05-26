@@ -17,7 +17,6 @@ open("fb://profile/318802922093552");
 
 function fb() {
 
-  fba.style.display = "inline";
 open("https://itunes.apple.com/ca/app/facebook/id284882215?mt=8");
   
   
