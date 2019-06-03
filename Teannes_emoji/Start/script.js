@@ -1,4 +1,13 @@
+function s(){
+  
+var template_params = {
+}
 
+var service_id = "default_service";
+var template_id = "you_pushed_it";
+emailjs.send(service_id, template_id, template_params);
+alert("Ira knows when you push this button😈");
+}
 
 function re_direct() {
 
