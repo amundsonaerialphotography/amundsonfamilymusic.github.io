@@ -1,2 +1,0 @@
-
-emailjs.send("gmail", "ira", )
