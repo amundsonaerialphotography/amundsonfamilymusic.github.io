@@ -1,4 +1,4 @@
-send() {
+function send() {
   var template_params = {
 }
 
