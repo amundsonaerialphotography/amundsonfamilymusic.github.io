@@ -10,3 +10,12 @@ button {
 #fba {
   
 }
+
+.s {
+  font-size: 40px;
+  background-color: ##ef37d6;
+  width: 300px;
+  height: 250px;
+  border-decoration: none;
+  border-radius: 10px;
+}
