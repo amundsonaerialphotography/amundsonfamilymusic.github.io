@@ -13,6 +13,7 @@ console.log(subject);
 var comment = url.searchParams.get("comment");
 console.log(comment);
 
-alert(`${name} ${email} ${subject} ${comment}`);
+//alert(`${name} ${email} ${subject} ${comment}`);
+alert(name);
 
 
