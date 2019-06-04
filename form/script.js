@@ -24,5 +24,5 @@ var template_params = {
 }
 
 var service_id = "default_service";
-var template_id = "you_pushed_it";
+var template_id = "afm_form";
 emailjs.send(service_id, template_id, template_params);
