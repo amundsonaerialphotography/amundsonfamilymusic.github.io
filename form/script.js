@@ -17,10 +17,10 @@ console.log(comment);
 alert(name);
 
 var template_params = {
-   "subject": (subject),
-   "name": (name),
-   "email": (email),
-   "comment": (comment)
+   "subject": subject,
+   "name": name,
+   "email": email,
+   "comment": comment
 }
 
 var service_id = "default_service";
