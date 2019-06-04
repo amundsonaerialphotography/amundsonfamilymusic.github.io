@@ -16,4 +16,13 @@ console.log(comment);
 //alert(`${name} ${email} ${subject} ${comment}`);
 alert(name);
 
+var template_params = {
+   "subject": subject,
+   "name": name,
+   "email": email,
+   "comment": comment
+}
 
+var service_id = "default_service";
+var template_id = "you_pushed_it";
+emailjs.send(service_id, template_id, template_params);
