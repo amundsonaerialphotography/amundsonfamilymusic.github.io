@@ -13,15 +13,12 @@ console.log(subject);
 var comment = url.searchParams.get("comment");
 console.log(comment);
 
+alert(`${name}, ${email}, ${subject}, ${comment}.`);
 var template_params = {
-   "subject": "subject_value",
-   "name": "name_value",
-   "email": "email_value",
-   "comment": "comment_value"
 }
 
 var service_id = "default_service";
-var template_id = "amundson_family_music_form";
+var template_id = "ira";
 emailjs.send(service_id, template_id, template_params);
-alert(`${name}, ${email}, ${subject}, ${comment}.`);
+
 
