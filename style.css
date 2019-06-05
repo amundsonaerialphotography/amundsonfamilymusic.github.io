@@ -281,12 +281,13 @@ img {
 }
 
 .submitB {
+  text-align: center;
   border-decoration: none;
   color: #000000;
   background-color: #ffffff;
   border-radius: 10px;
   height: 30px;
-  width: 50px;
+  width: 100px;
   
 }
 
