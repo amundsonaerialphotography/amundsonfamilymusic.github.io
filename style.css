@@ -262,6 +262,21 @@ img {
 
 
 
+.contact_form {
+  text-align: left;
+  margin-left: 20px;
+}
+
+.form_div {
+  background-color: #000000;
+  opacity: .3;
+  border-radius: 10px;
+  height: 100px;
+  width: 150px;
+}
+
+
+
 
 footer {
   width: 100%;
