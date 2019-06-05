@@ -8,6 +8,7 @@ body {
   background-image: url(paperParch1.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  overflow: hidden;
 }
 
 .landingPage {
