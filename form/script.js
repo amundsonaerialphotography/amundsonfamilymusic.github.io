@@ -19,7 +19,7 @@ console.log(web_hostname);
 
 
 var template_params = {
-   "web_hostname": web_hostname,
+   "web_hostname": "amundsonfamilymusic.com",
    "subject": subject,
    "name": name,
    "email": email,
