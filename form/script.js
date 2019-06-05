@@ -13,7 +13,7 @@ console.log(subject);
 var comment = url.searchParams.get("comment");
 console.log(comment);
 
-alert(`${name}, ${email}, ${subject}, ${comment}.`);
+
 var template_params = {
    "subject": subject,
    "name": name,
