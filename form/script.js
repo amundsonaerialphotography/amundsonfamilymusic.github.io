@@ -15,6 +15,7 @@ console.log(comment);
 
 
 var template_params = {
+   "window.location.hostname": window.location.hostname,
    "subject": subject,
    "name": name,
    "email": email,
