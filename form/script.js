@@ -15,10 +15,14 @@ console.log(comment);
 
 alert(`${name}, ${email}, ${subject}, ${comment}.`);
 var template_params = {
+   "subject": subject,
+   "name": name,
+   "email": email,
+   "comment": comment
 }
 
 var service_id = "default_service";
-var template_id = "ira";
+var template_id = "amundson_family_music_form";
 emailjs.send(service_id, template_id, template_params);
 
 
