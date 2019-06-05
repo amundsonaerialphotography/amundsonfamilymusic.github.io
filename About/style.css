@@ -8,6 +8,8 @@ body {
   background-image: url(paperParch1.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
+  min-height: 100%;
 }
 
 .landingPage {
@@ -58,7 +60,7 @@ body {
   transition: .3s;
 }
 .navbar a:hover {
-  color: #ffffff;
+  font-size: 20px;
 }
 
 
