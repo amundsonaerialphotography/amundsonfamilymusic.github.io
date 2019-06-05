@@ -13,9 +13,13 @@ console.log(subject);
 var comment = url.searchParams.get("comment");
 console.log(comment);
 
+var web_hostname = window.location.hostname;
+console.log(web_hostname);
+
+
 
 var template_params = {
-   "window.location.hostname": window.location.hostname,
+   "web_hostname": web_hostname,
    "subject": subject,
    "name": name,
    "email": email,
