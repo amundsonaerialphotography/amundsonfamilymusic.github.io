@@ -272,9 +272,9 @@ img {
 .form_div {
   z-index: -1;
   background-color: #000000;
-  opacity: .3;
+  opacity: .2;
   border-radius: 10px;
-  height: 350px;
+  height: 400px;
   width: 500px;
   position: absolute;
   margin-left: 10px;
